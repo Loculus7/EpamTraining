@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Selenium.Mozilla.Firefox.Webdriver</id>
+    <version>0.6.0.1</version>
+    <title>Mozilla Firefox Webdriver</title>
+    <authors>hesilva</authors>
+    <owners>hesilva</owners>
+    <licenseUrl>https://developer.mozilla.org/en-US/docs/MDN/About#Copyrights_and_licenses</licenseUrl>
+    <projectUrl>https://developer.mozilla.org/en-US/docs/Mozilla/QA/Marionette/WebDriver</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This is the latest version of the Mozilla's Marionette driver.  Just like the other drivers available to Selenium from other browser vendors, Mozilla has released an executable that will run along side the browser.</description>
+    <summary>Firefox/Marionette webdriver for Selenium</summary>
+    <releaseNotes>Fixed install.ps1 and uninstall.ps1, because they had the wrong driver file</releaseNotes>
+    <copyright>Mozilla Developer Network</copyright>
+    <tags>Firfox Selenium Mozilla webdriver</tags>
+  </metadata>
+</package>
